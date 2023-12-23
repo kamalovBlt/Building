@@ -1,4 +1,4 @@
-package ru.itis301.labs.december16;
+package ru.itis301.labs;
 
 public class StageRejectedException extends Exception {
     public StageRejectedException(String message) {
